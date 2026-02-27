@@ -6,4 +6,3 @@ if ($moveOn) {
 }
 
 echo "Petit coucou à mon ex... Merci pour le bug report, ça m'a permis d'améliorer ma vie 😉";
-?>
